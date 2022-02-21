@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756165085670",
+    "project_id": "multiplecounterapp",
+    "storage_bucket": "multiplecounterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756165085670:android:6b1db5c27b9649786fee27",
+        "android_client_info": {
+          "package_name": "com.seeti.multiple_counter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756165085670-4e0fjnvr8fkedfhdl50s4n5bjguv1s14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fwEQmtUj2V8rkTgaC3Fb9uG8-SlL-ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756165085670-4e0fjnvr8fkedfhdl50s4n5bjguv1s14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
